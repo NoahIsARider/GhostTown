@@ -1,0 +1,9 @@
+# scratch captures kept locally, not part of the shipped build
+_iterations/
+.playwright-mcp/
+*.log
+
+# editor and OS noise
+.DS_Store
+Thumbs.db
+node_modules/
