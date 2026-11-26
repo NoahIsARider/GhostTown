@@ -1,5 +1,7 @@
 # Ghost Town
 
+> **Status: in development.** This is an early build of the loop, not a finished game. The shop, the beds and the cauldron run end to end; the balance and the later progression are first passes, and a later version may not read an old save.
+
 ![A pixel wizard shop at dusk](docs/screens/shop.png)
 
 **A small idle game about a wizard who keeps a village supplied while the town sleeps.**
